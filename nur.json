@@ -1,0 +1,6 @@
+{
+  "version": "1.0",
+  "modules": {
+    "base64": "./modules/base64.json"
+  }
+}
