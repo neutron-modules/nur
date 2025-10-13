@@ -1,7 +1,7 @@
 {
   "name": "base64",
   "description": "Base64 encoding/decoding native module for Neutron",
-  "author": "neutron-modules",
+  "author": "Yasakei",
   "license": "MIT",
   "repository": "https://github.com/neutron-modules/base64",
   "latest": "1.0.1",
