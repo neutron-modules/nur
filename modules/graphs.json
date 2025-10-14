@@ -4,7 +4,7 @@
   "author": "Yasakei",
   "license": "MIT",
   "repository": "https://github.com/neutron-modules/graphs",
-  "latest": "1.0.1",
+  "latest": "1.0.0",
   "versions": {
     "1.0.0": {
       "description": "Initial release of graphs module",
